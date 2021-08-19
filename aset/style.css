@@ -68,3 +68,7 @@ ul {
   color: #7D7987;
   text-align: center;
 }
+
+.flex-fitur {
+  display: flex;
+}
